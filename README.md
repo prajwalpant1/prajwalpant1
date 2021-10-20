@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @prajwalpant
-- 👀 I’m interested in .webdevelopement..
-- 🌱 I’m currently learning .css..
-- 💞️ I’m looking to collaborate on .html,css ..
+- 👀 I’m interested in .data science..
+- 🌱 I’m currently learning .ml..
+- 💞️ I’m looking to collaborate on .ml projects
+- ..
 - 📫 How to reach me ...https://www.facebook.com/
 
 <!---
